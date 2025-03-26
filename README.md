@@ -1,4 +1,4 @@
-# kuzco-worker-manager
+# Kuzco-Worker
 Helper script to run multiple workers with CLI
 
 Don't forget to install kuzco before start:
@@ -10,7 +10,7 @@ curl -fsSL https://kuzco.xyz/install.sh | sh
 
 ```bash
 git clone https://github.com/dremovd/kuzco-worker-manager; cd kuzco-worker-manager
-git pull; curl -fsSL https://kuzco.xyz/install.sh | sh; python run_kuzco_workers.py "kuzco worker start --worker V6hwT4-ptyfw25dcg8JwB --code 53877007-c01b-4389-9b8f-3e6aebe90f2e" 10 --silent
+git pull; curl -fsSL https://kuzco.xyz/install.sh | sh; python run_kuzco_workers.py "kuzco worker start --worker urworkerid --code urcodeid" 10 --silent
 ```
 
 
