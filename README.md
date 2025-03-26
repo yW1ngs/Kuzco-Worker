@@ -1,4 +1,6 @@
 # Kuzco-Worker
+![Kuzco](https://pbs.twimg.com/profile_images/1764818290948628480/kdK2Iay9_400x400.png)
+
 Helper script to run multiple workers with CLI
 
 Don't forget to install kuzco before start:
